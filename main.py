@@ -275,7 +275,8 @@ if __name__ == "__main__":
 
             
         if event == "SAIR":
-            sg.popup(title="Tchau", custom_text="Nós não usou IA, comédia!")
+            #Nós não usou IA, comédia!. Att, usei IA ;-;, mas para me ajudar a estilizar e fazer o install.sh
+            sg.popup(title="Tchau", custom_text="Asus VTNC!")
             break
 
     window.close()
